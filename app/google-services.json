@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376530774143",
+    "project_id": "topupj-ba9c0",
+    "storage_bucket": "topupj-ba9c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376530774143:android:8aa27206d6deb6843cf74a",
+        "android_client_info": {
+          "package_name": "com.topuppg.topupj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376530774143-9to2upsuqjgd6tbceohk7meak7ka4l35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLSS3L9LmWADHop93gJKipKCgKN0ZIxU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376530774143-9to2upsuqjgd6tbceohk7meak7ka4l35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
